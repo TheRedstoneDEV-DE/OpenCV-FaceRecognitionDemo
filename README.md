@@ -58,7 +58,7 @@ Run the demo:
 The parameters mean:
 
 `</path/to/haar_cascade>` -- Path to the Haar Cascade for face detection. 
-(normally in `<OpenVCInstallDir>/data/haarcascades/haarcascade_frontalface_default.xml`)
+(normally in `<OpenCVInstallDir>/data/haarcascades/haarcascade_frontalface_default.xml`)
 
 `</path/to/csv.ext>` -- Path to the CSV file with the face database. (more info in their documentation: <https://docs.opencv.org/4.x/da/d60/tutorial_face_main.html>)
 
